@@ -2,10 +2,8 @@
 /*
 echo "hello world \n";
 // A PHP script is executed on the server, and the plain HTML result is sent back to the browser.
-
 $aVariable = "Namik";
 $AVariable = 1;
-
 #echo $AVariable." ".$aVariable;
 */
 $animes = array("dbz", "dbz super", "Death note");
